@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448250688906",
+    "project_id": "marvel-task-tracker",
+    "storage_bucket": "marvel-task-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448250688906:android:cea369de56d53236618473",
+        "android_client_info": {
+          "package_name": "com.example.marvel_task_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhfWDcpKY2_EJxSjofmVz3Jg_j6tWGKmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
